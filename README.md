@@ -12,7 +12,7 @@ The data set comprises various statistics of basketball players, including point
 
 The purpose of this software is to allow users to compare the performance of two basketball players based on selected statistical metrics. Users can input the names of the players they wish to compare along with the type of statistics (per 36 minutes, per game, or total), and the program will display a comparison of the specified statistics for the two players.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Lwx_P9FfRq4)
 
 # Data Analysis Results
 
